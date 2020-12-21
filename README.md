@@ -1,1 +1,1 @@
-# Christmas
+This is a Christmas site to replace this year's Christmas cards.
